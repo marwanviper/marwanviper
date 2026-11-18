@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=210&section=header&text=Marwan%20Abbas&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20LLM%20Systems%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Python%20%26%20.NET&descAlignY=60&descSize=16" width="100%" alt="Marwan Abbas Banner" />
+<img src="./assets/banner.svg" width="100%" alt="Marwan Abbas Banner" />
 
 <!-- Animated Typing Subtitle -->
 <a href="https://github.com/marwanviper">
